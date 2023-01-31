@@ -9,13 +9,13 @@
 
 4-->now run following commands
 
-pip install-r recquiement.txt
+pip install-r requirements.txt
 
-pip freeze  (to check wether all the recquired python packages are installed or not)
+pip freeze  (to check wether all the recquired python packages that are there in requirement.txt are installed or not)
 
 python manage.py makemigrations  (it will create a migration file)
 
-python manage.py migrate         (this will create database schemas/Modals recquired in our project )
+python manage.py migrate         (this will create database schemas/Modals required in our project )
 
 python manage.py runserver       (python will start django project at localhost 8000)
 
