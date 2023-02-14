@@ -5,7 +5,7 @@
 
 2-->extract anywhere you want to
 
-3-->now open cmd in same directory where manae.py is present
+3-->now open cmd in same directory where manage.py is present
 
 4-->now run following commands
 
