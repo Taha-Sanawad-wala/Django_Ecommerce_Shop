@@ -1,31 +1,31 @@
 # Django_Ecommerce_Shop
-## **STEPS to run following project:**
+## **STEPS to run the following project:**
 
 1-->Download the zip file
 
-2-->extract anywhere you want to
+2--> Extract anywhere you want to
 
-3-->now open cmd in same directory where manage.py is present
+3--> Now open cmd in the same directory where manage.py is present
 
-4-->now run following commands
+4--> Now run the following commands
 
 pip install-r requirements.txt
 
-pip freeze  (to check wether all the recquired python packages that are there in requirement.txt are installed or not)
+pip freeze  (to check whether all the required Python packages that are there in requirement.txt are installed or not)
 
 python manage.py makemigrations  (it will create a migration file)
 
 python manage.py migrate         (this will create database schemas/Modals required in our project )
 
-python manage.py runserver       (python will start django project at localhost 8000)
+python manage.py runserver       (python will start the Django project at localhost 8000)
 
 
 
-## **for accessing admin panel and creating super user:**
+## **for accessing the admin panel and creating a super user:**
 
 run the following command:
 
-python manage.py create superuser  (once you hit this command it will ask you for usename, Email and password once you have entered all this you are good to go with the admin panel)
+python manage.py create superuser  (once you hit this command it will ask you for username, Email, and password once you have entered all this you are good to go with the admin panel)
 
 
 
